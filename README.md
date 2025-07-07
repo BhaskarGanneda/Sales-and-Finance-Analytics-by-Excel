@@ -9,7 +9,12 @@ Welcome to my **Excel Data Analytics Project** where I explored and built real-w
 ### 🔹 Project Objectives:
 
 1. Create a [**Customer Performance Report**](https://github.com/BhaskarGanneda/Sales-and-Finance-Analytics-by-Excel/blob/main/Sales%20Reports/CPR-Report-1.pdf).
-2. Perform a comprehensive comparison between [**Market Performance vs. Sales Targets**](#) to identify gaps and growth areas.
+2. Perform a comprehensive comparison between [**Market Performance vs. Sales Targets**](https://github.com/BhaskarGanneda/Sales-and-Finance-Analytics-by-Excel/blob/main/Sales%20Reports/MPvsT-Report.pdf
+) to identify gaps and growth areas.
+3. Create a .[**Top and Bottom 5 Products in Quantity wise**](https://github.com/BhaskarGanneda/Sales-and-Finance-Analytics-by-Excel/blob/main/Sales%20Reports/T%26B-Products-Qty.pdf).
+4. Create a report on.[**Top 5 Countries in 2021**](https://github.com/BhaskarGanneda/Sales-and-Finance-Analytics-by-Excel/blob/main/Sales%20Reports/Top-5-Countries.pdf).
+5. Create a report on .[**Top 10 Products in 2020, 2021 and 2020vs2021**](https://github.com/BhaskarGanneda/Sales-and-Finance-Analytics-by-Excel/blob/main/Sales%20Reports/Top10Products-Report.pdf).
+6. Create a report on .[**New Products in 2021**](https://github.com/BhaskarGanneda/Sales-and-Finance-Analytics-by-Excel/blob/main/Sales%20Reports/2021-New%20Products.pdf).
 
 ### 🎯 Purpose of Sales Analytics:
 Enable businesses to monitor, evaluate, and optimize their sales strategies by leveraging data.
