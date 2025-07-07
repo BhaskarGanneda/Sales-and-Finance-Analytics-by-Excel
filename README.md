@@ -8,7 +8,7 @@ Welcome to my **Excel Data Analytics Project** where I explored and built real-w
 
 ### 🔹 Project Objectives:
 
-1. Develop an interactive [**Customer Performance Dashboard**](#) to visualize KPIs across customer segments.
+1. Develop an interactive [**Customer Performance Report**](https://github.com/BhaskarGanneda/Sales-and-Finance-Analytics-by-Excel/blob/main/Sales%20Reports/CPR-Report-1.pdf) to visualize KPIs across customer segments.
 2. Perform a comprehensive comparison between [**Market Performance vs. Sales Targets**](#) to identify gaps and growth areas.
 
 ### 🎯 Purpose of Sales Analytics:
