@@ -35,8 +35,10 @@ Enable businesses to monitor, evaluate, and optimize their sales strategies by l
 
 ### 🔹 Project Objectives:
 
-1. Build [**Profit & Loss Statements by Fiscal Year and Month**](#).
-2. Generate [**Market-wise Financial Performance Reports**](#) to evaluate region-level profitability.
+1. Create Profit and Loss (P&L) reports by [**Fiscal Year**](https://github.com/BhaskarGanneda/Sales-and-Finance-Analytics-by-Excel/blob/main/Finance%20Reports/P%26L-Years-Report.pdf).
+2. Create Profit and Loss (P&L) reports by [**Fiscal Year Market-wise Financial Performance Report**](https://github.com/BhaskarGanneda/Sales-and-Finance-Analytics-by-Excel/blob/main/Finance%20Reports/P%26L-Years(Market)-Report.pdf) to evaluate region-level profitability.
+3. Create Profit and Loss (P&L) reports by [**Fiscal Year and Month-wise Financial Report**](https://github.com/BhaskarGanneda/Sales-and-Finance-Analytics-by-Excel/blob/main/Finance%20Reports/P%26L-Months-Report.pdf).
+4. Create Profit and Loss (P&L) reports by [**Growth Margin(%)by Quarters sub_zone**](https://github.com/BhaskarGanneda/Sales-and-Finance-Analytics-by-Excel/blob/main/Finance%20Reports/GM%25-Q(sz)-Report.pdf).
 
 ### 🎯 Purpose of Finance Analytics:
 Deliver meaningful insights into the company’s financial performance for informed decision-making and stakeholder communication.
@@ -78,16 +80,21 @@ Deliver meaningful insights into the company’s financial performance for infor
 ## 📂 Folder Structure
 
 ```plaintext
-📁 Excel-Sales-Finance-Analytics/
+📁 Sales-and-Finance-Analytics-by-Excel/
 │
 ├── 📊 Sales Reports/
-│   ├── Customer Performance Report.xlsx
-│   └── Market Performance vs Target Comparison.xlsx
+│   ├── Customer Performance Report.pdf
+│   ├── Market Performance vs Sales Targets.pdf
+│   ├── Top and Bottom 5 Products (Quantity-wise).pdf
+│   ├── Top 5 Countries in 2021.pdf
+│   ├── Top 10 Products in 2020, 2021, and 2020vs2021.pdf
+│   └── New Products in 2021.pdf
 │
 ├── 💰 Finance Reports/
-│   ├── P&L by Fiscal Year.xlsx
-│   └── P&L by Market.xlsx
+│   ├── P&L Report by Fiscal Year.pdf
+│   ├── P&L Market-wise Financial Performance.pdf
+│   ├── P&L by Fiscal Year and Month.pdf
+│   └── Growth Margin (%) by Quarter and Sub-Zone.pdf
 │
 ├── 📄 README.md
-└── 📁 Resources/
-    └── Data Dictionary, Raw Data, and DAX Notes
+
